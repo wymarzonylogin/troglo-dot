@@ -1,0 +1,21 @@
+{
+    "name": "wymarzonylogin/troglo-dot",
+    "type": "library",
+    "description": "Load env variables from file",
+    "keywords": ["php", "dot", "env"],
+    "homepage": "https://wymarzonylog.in",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Smacznego",
+            "email": "smacznego@wymarzonylog.in",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "WymarzonyLogin\\TrogloDot\\": "src/"
+        }
+    }
+}
+
